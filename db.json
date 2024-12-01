@@ -1,0 +1,96 @@
+{
+  "status": "200",
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "course": "Web Development",
+      "phone": "+1234567890",
+      "created_at": "2024-12-01T12:00:00Z",
+      "updated_at": "2024-12-01T13:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "course": "Data Science",
+      "phone": "+1234567891",
+      "created_at": "2024-11-30T10:00:00Z",
+      "updated_at": "2024-11-30T11:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "email": "michael.johnson@example.com",
+      "course": "Graphic Design",
+      "phone": "+1234567892",
+      "created_at": "2024-11-29T09:00:00Z",
+      "updated_at": "2024-11-29T10:00:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com",
+      "course": "Digital Marketing",
+      "phone": "+1234567893",
+      "created_at": "2024-11-28T08:00:00Z",
+      "updated_at": "2024-11-28T09:00:00Z"
+    },
+    {
+      "id": 5,
+      "name": "William Brown",
+      "email": "william.brown@example.com",
+      "course": "Cybersecurity",
+      "phone": "+1234567894",
+      "created_at": "2024-11-27T07:00:00Z",
+      "updated_at": "2024-11-27T08:00:00Z"
+    },
+    {
+      "id": 6,
+      "name": "Sophia Wilson",
+      "email": "sophia.wilson@example.com",
+      "course": "Artificial Intelligence",
+      "phone": "+1234567895",
+      "created_at": "2024-11-26T06:00:00Z",
+      "updated_at": "2024-11-26T07:00:00Z"
+    },
+    {
+      "id": 7,
+      "name": "James Taylor",
+      "email": "james.taylor@example.com",
+      "course": "Mobile App Development",
+      "phone": "+1234567896",
+      "created_at": "2024-11-25T05:00:00Z",
+      "updated_at": "2024-11-25T06:00:00Z"
+    },
+    {
+      "id": 8,
+      "name": "Olivia Martinez",
+      "email": "olivia.martinez@example.com",
+      "course": "UI/UX Design",
+      "phone": "+1234567897",
+      "created_at": "2024-11-24T04:00:00Z",
+      "updated_at": "2024-11-24T05:00:00Z"
+    },
+    {
+      "id": 9,
+      "name": "Benjamin Garcia",
+      "email": "benjamin.garcia@example.com",
+      "course": "Blockchain Development",
+      "phone": "+1234567898",
+      "created_at": "2024-11-23T03:00:00Z",
+      "updated_at": "2024-11-23T04:00:00Z"
+    },
+    {
+      "id": 10,
+      "name": "Charlotte Rodriguez",
+      "email": "charlotte.rodriguez@example.com",
+      "course": "Game Development",
+      "phone": "+1234567899",
+      "created_at": "2024-11-22T02:00:00Z",
+      "updated_at": "2024-11-22T03:00:00Z"
+    }
+  ]
+}
+
